@@ -1,0 +1,15 @@
+Request Submitted Successfully
+
+Ticket ID: TKT-XXXXXXXX
+
+Employee ID: E101
+Employee Name: Rahul Sharma
+Role: Developer
+Grade: G5
+
+Asset Type: Laptop
+Asset Name: Dell Latitude 5440
+Reason: Required for project development
+Urgency: High
+
+Status: Approved

@@ -1,0 +1,7 @@
+{
+"employee_id": "E101",
+"asset_type": "Laptop",
+"asset_name": "Dell Latitude 5440",
+"reason": "Required for project development",
+"urgency": "High"
+}

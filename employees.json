@@ -1,0 +1,26 @@
+{
+  "E101": {
+    "name": "Rahul Sharma",
+    "role": "Developer",
+    "grade": "G5",
+    "department": "IT"
+  },
+  "E102": {
+    "name": "Priya Reddy",
+    "role": "Manager",
+    "grade": "G7",
+    "department": "Operations"
+  },
+  "E103": {
+    "name": "Amit Kumar",
+    "role": "Tester",
+    "grade": "G4",
+    "department": "QA"
+  },
+  "E104": {
+    "name": "Sneha Patel",
+    "role": "Business Analyst",
+    "grade": "G6",
+    "department": "Business"
+  }
+}
