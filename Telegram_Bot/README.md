@@ -97,4 +97,4 @@ No admin dashboard for approvals
 Bot works only on Telegram platform
 
 🎥 Demo Video Link
-https://your-demo-link.com
+https://drive.google.com/file/d/1aNvtHAa4lr4HDnCq0pHgVvjjCQBQgwNr/view?usp=sharing
